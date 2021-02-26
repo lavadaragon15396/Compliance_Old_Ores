@@ -4,6 +4,6 @@ Complience Old Ores is an addon for the [Complience 32x texture pack](https://co
 
 **Links:**
 
-[Curseforge (not yet on site)](https://github.com/lavadaragon15396/Compliance_Old_Ores)
+[Curseforge](https://www.curseforge.com/minecraft/texture-packs/compliance-old-ores)
 
 [Compliance addon (not yet on site)](https://github.com/lavadaragon15396/Compliance_Old_Ores)
